@@ -1,0 +1,24 @@
+{
+  "name": "by.orchanorvfx.polyg_arsenal.urp",
+  "version": "2.0.0",
+  "displayName": "Polygon Arsenal URP",
+  "description": "The ultimate collection of low-poly styled VFX, containing over 1300 prefabs for sci-fi and fantasy themes.",
+  "unity": "2021.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "3d",
+    "low poly",
+	"FX"
+  ],
+  "author": {
+    "name": "jobpatchh",
+    "email": "user@noreply.com",
+    "url": "https://github.com/jobpatchh"
+  },
+  "type": "3d",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "11.0.0"
+  }
+}
