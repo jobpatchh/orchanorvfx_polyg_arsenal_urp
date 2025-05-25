@@ -20,5 +20,12 @@
   "type": "3d",
   "dependencies": {
     "com.unity.render-pipelines.universal": "11.0.0"
-  }
+  }, 
+  "samples": [
+	{
+		"displayName": "Polygon Arsenal",
+		"description": "Demo scene",
+		"path": "Samples~/Polygon Arsenal"
+	}
+    ]
 }
